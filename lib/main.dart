@@ -28,7 +28,7 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   String baseUrl =
-  'https://API Key:API Secret@api.cloudinary.com/v1_1/Cloud name/resources/image';
+      'https://API Key:API Secret@api.cloudinary.com/v1_1/Cloud name/resources/image';
 
   //Replace API Key with your cloudinary API Key
   //and also replace API Secret key with your cloudinary API Secret key.
