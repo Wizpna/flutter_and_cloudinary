@@ -28,7 +28,7 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   String baseUrl =
-      'https://API Key:API Secret@api.cloudinary.com/v1_1/Cloud name/resources/image';
+  'https://API Key:API Secret@api.cloudinary.com/v1_1/Cloud name/resources/image';
 
   //Replace API Key with your cloudinary API Key
   //and also replace API Secret key with your cloudinary API Secret key.
@@ -36,7 +36,7 @@ class _MyHomePageState extends State<MyHomePage> {
   //When done, your baseUrl should look like this url below
   //'https://123456789987654:azdRJBNv1B3TBQLI4rK4xK1dPXD@api.cloudinary.com/v1_1/demo/resources/image';
 
-  Future<List<Resources>> getNews() async {
+  Future<List<Resources>> getPhotos() async {
     return await http.get(baseUrl).then((response) {
       Data an = Data.fromJson(json.decode(response.body.toString()));
       return an.resources;
@@ -92,7 +92,7 @@ class _MyHomePageState extends State<MyHomePage> {
             return Center(child: CircularProgressIndicator());
           }
         },
-        future: getNews(),
+        future: getPhotos(),
       ),
     );
   }
