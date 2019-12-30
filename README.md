@@ -1,16 +1,14 @@
 # flutter_and_cloudinary
+This is a simple project that will help you learn how to build a photo diary app using flutter and cloudinary.
 
-A new Flutter project.
+You can read an article about this project, which is on medium: https://medium.com/flutter-community/9-easiest-steps-to-build-photo-diary-app-using-flutter-and-cloudinary-8f190faa1441
 
-## Getting Started
+<img src="https://miro.medium.com/max/1463/1*wtdKImZJ72OAfC53G2Hq9Q.jpeg"  title="Google_Search">
 
-This project is a starting point for a Flutter application.
+Contact - Let's become friends
 
-A few resources to get you started if this is your first Flutter project:
+<a href="https://twitter.com/Promise_Amadi1">Twitter</a></br>
+<a href="https://github.com/Wizpna">Github</a></br>
+<a href="https://www.linkedin.com/in/promise-amadi-101759a1/">Linkedin</a></br>
+<a href="https://www.facebook.com/promise.nzubechi.amadi">Facebook</a>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
