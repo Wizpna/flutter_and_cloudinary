@@ -3,7 +3,7 @@ This is a simple project that will help you learn how to build a photo diary app
 
 You can read an article about this project, which is on medium: https://medium.com/flutter-community/9-easiest-steps-to-build-photo-diary-app-using-flutter-and-cloudinary-8f190faa1441
 
-<img src="https://miro.medium.com/max/1463/1*wtdKImZJ72OAfC53G2Hq9Q.jpeg"  title="Google_Search">
+<img src="https://miro.medium.com/max/1463/1*wtdKImZJ72OAfC53G2Hq9Q.jpeg"  title="flutter_and_cloudinary">
 
 Contact - Let's become friends
 
